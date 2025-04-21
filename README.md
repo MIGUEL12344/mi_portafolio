@@ -7,3 +7,4 @@ haciendo uso de las etiquetas astudiadas en clases crear la portada principal co
 - pasatiempos
 - actividades favoritas
   observacion la pagina debera tener al menos una imagen 
+  .
