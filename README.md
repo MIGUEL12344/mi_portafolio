@@ -1,6 +1,6 @@
 # trabajo
 
-haciendo uso de las etiquetas astudiadas en clases crear la portada principal con nuestros datos personales.
+haciendo uso de las etiquetas estudiadas en clases crear la portada principal con nuestros datos personales.
 - nombres
 - descripcion
 - hobbies
